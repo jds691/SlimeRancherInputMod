@@ -1,0 +1,7 @@
+﻿{
+  "id": "neo.steam-input-fix",
+  "name": "Steam Input Fix",
+  "author": "Neo",
+  "description": "Improves Steam Input support by removing unknown icons and using buttons in the games art style where possible.",
+  "version": "2.0"
+}
